@@ -1,0 +1,27 @@
+.container {
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .header img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .main {
+    padding: 2rem 0;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
